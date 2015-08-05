@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">System Logowania</string>
+    <string name="action_logout">Wyloguj</string>
+    <string name="action_settings">Opcje</string>
+    <string name="title_activity_main">System Logowania</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+</resources>
